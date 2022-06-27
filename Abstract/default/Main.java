@@ -10,6 +10,7 @@ import shapes_entities_enums.Color;
 public class Main {
 
 	public static void main(String[] args) {
+		////Create a program to read N data, than show the area of those figures in the same order as digit.
 		Scanner sc = new Scanner(System.in);
 		
 		List<Shapes> list = new ArrayList<>();
