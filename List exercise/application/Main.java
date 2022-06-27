@@ -10,7 +10,6 @@ public class Main {
 		/*
 		 * Create a program to read an integer N and then the data (id, name and salary)
 		 * of N employees. There can be no id repetition.
-		 * 
 		 * Then, make an increase of X percent in the salary of a given employee. For
 		 * this, the program must read an id and the value X. If the id informed does
 		 * not exist, display a message and abort the method. At the end, show the
