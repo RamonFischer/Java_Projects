@@ -22,7 +22,7 @@ public class Main {
 
 		// READ DATA:
 		System.out.print("How many employees will be registered? ");
-		int n = sc.nextInt();
+		int n = sc.nextInt(); 
 
 		for (int i = 1; i <= n; i++) {
 			System.out.println();
