@@ -28,7 +28,7 @@ public class Main {
 			System.out.println("It is the product commom, imported? (c/i)? ");
 			char productStatus = sc.next().charAt(0);
 			System.out.println("Name of product: ");
-			String name = sc.next();			
+			String name = sc.nextLine();			
 			System.out.println("Price of product: ");
 			double price = sc.nextDouble();
 			
