@@ -38,7 +38,6 @@ public class Main {
 			}
 
 			System.out.print("Name: ");
-			sc.nextLine();
 			String name = sc.nextLine();
 			System.out.print("Salary: ");
 			double salary = sc.nextDouble();
